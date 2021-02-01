@@ -19,3 +19,12 @@ A.Layout :
 B.Java :
 - MainActivity.java
 - MeetingCode.java
+
+C.Manifest :
+- AndroidManifest.xml
+
+D.Values :
+- colors.xml
+- dimens.xml
+- strings.xml
+- styles.xml
